@@ -1,65 +1,63 @@
 # A-B-test-project
 
 
-## Table of contents
-- [Project Overview](#project-overview)
-- [Data Sources](#data-sources)
-- [Tools](#tools)
-- [Data Cleaning / Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Modeling & Prediction](#modeling--prediction)
-- [Results / Findings](#results--findings)
-- [Recommendations](#recommendations)
-
-
-
-
 ### Project Overview
+This project analyzes using A/B test to evaluate whether offering discounts increases the average order value (AOV).
+
+Two groups of customers were compared:
+1-customers who saw regular prices (Control group)
+2- customers who received a 15% discount (Discount group)
+
+Using Python and statistical testing, we examine whether the discount campaign led to a statistically significant difference in customer spending.
 
 
 
-This project analyzes an e-commerce dataset to generate actionable business insights. The analysis covers overall sales trends, sales and profit by category, top-selling products, and high-profit but low-sales items. It also examines category-level sales contributions and key profitability drivers. Together, these insights provide data-driven recommendations to support strategic decision-making and enhance understanding of the company’s performance.
+### Dataset Description :
+The dataset contains  purchase data from 100 customers collected over a one-week promotional campaign.
+customer_id : Unique identifier for each customer
+group : Control or Discount
+orders_count: Number of orders placed by the customer
+total_spent : Total amount (USD) the customer spent during the week
 
 
 
-<br><br>
+### Tools & Libraries Used :
+ 
+Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
 
-<img width="1315" height="511" alt="Capture" src="https://github.com/user-attachments/assets/52363be9-8a85-486c-a444-83953a55a5a8" />
-
-<br><br>
-
-
-
-
-### Data sources :
-
-the primary dataset used for this analysis is "Ecommerce_data.csv" file , containing detailed information about each sale made by the company .
+Statistical Methods:
+Shapiro–Wilk Test (Normality)
+Levene’s Test (Equality of Variances)
+Independent Samples t-test (Main Analysis)
 
 
-### Tools :
 
-- python - Data cleaning , exploration , Exporting processed data to Excel and linear regression modeling.
-- power bi - Building interactive dashboards and Visualizing sales performance and digital marketing KPIs .
+### Hypotheses :
 
+Null Hypothesis (H₀):
+There is no significant difference in the average order value between the Control and Discount groups.
 
-### Data cleaning / preperation :
-
-in the initial data preperation phase we perform the following tasks :
-1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+Alternative Hypothesis (H₁):
+There is a significant difference in the average order value between the Control and Discount groups.
 
 
-### Exploratoty Data analysis :
-EDA involved exploring the sales data to answer key questions such as:
 
-- What are the overall sales trends over time?
-- What are the overall profit trends over time?
-- what is the total revenue and Month over Month revenue Growth %?
-- Which products are the top sellers?
-- Which products generate high profit despite low sales volume?
-- What is the sales contribution of each category to total revenue?
-- What are the key factors driving profitability across categories and products?
+🧮 Analysis Steps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
