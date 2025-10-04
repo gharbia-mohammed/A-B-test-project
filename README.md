@@ -42,7 +42,31 @@ There is a significant difference in the average order value between the Control
 
 
 
-🧮 Analysis Steps
+### Key Insights:
+
+1-Customers exposed to the 15% discount spent (15–20%) more on average.
+
+2-The result is statistically significant at the 95% confidence level.
+
+3-Discount campaigns can drive short-term sales increases, but further testing is recommended to assess long-term profitability.
+
+
+
+<br><br>
+
+<img width="860" height="556" alt="Capture" src="https://github.com/user-attachments/assets/277e7a6c-2ccf-4e6e-a8a8-7e43173793ec" />
+
+<br><br>
+
+
+
+
+
+### Recommendations :
+
+1- Track customer retention to ensure discounts don’t only attract short-term buyers.
+
+2-Combine discount offers with personalized marketing for higher ROI.
 
 
 
