@@ -1,7 +1,5 @@
 # A-B-test-project
 
-# business-insights-dashboard
-
 
 ## Table of contents
 - [Project Overview](#project-overview)
