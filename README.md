@@ -33,10 +33,10 @@ Independent Samples t-test (Main Analysis)
 ### Hypotheses :
 
 Null Hypothesis (H₀):
-There is no significant difference in the average order value between the Control and Discount groups.
+There is no significant difference in total customer spending between the Control and Discount groups.
 
 Alternative Hypothesis (H₁):
-There is a significant difference in the average order value between the Control and Discount groups.
+There is a significant difference in total customer spendinge between the Control and Discount groups.
 
 
 
@@ -73,7 +73,7 @@ This provides statistically significant evidence that the 15% discount was assoc
 
 ### Key Insights:
 
-1-Customers exposed to the 15% discount spent (15–20%) more on average.
+1-Customers in the Discount Group showed higher total spending than customers in the Control Group.
 
 2-The result is statistically significant at the 95% confidence level.
 
@@ -90,10 +90,10 @@ This provides statistically significant evidence that the 15% discount was assoc
 
 ### Recommendations :
 
-1. Consider using targeted discount campaigns to increase short-term customer spending.
-2. Monitor customer retention to determine whether increased spending continues beyond the promotional period.
-3. Evaluate discount profitability by comparing the additional revenue generated with the cost of the discount.
-4. Conduct further A/B tests with different discount levels to identify the optimal discount strategy.
+1. Conduct a longer-term experiment to determine whether the increase in spending is sustained after the discount period.
+2. Evaluate discount profitability by comparing the additional revenue generated with the cost of the discount.
+3. Conduct further A/B tests with different discount levels to identify the optimal discount strategy.
+4.  Further testing is recommended to evaluate the long-term profitability of the discount strategy.
 
 
 
