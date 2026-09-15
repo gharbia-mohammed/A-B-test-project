@@ -1,5 +1,11 @@
 # A-B-test-project
 
+ ### Business Question
+
+Does offering a 15% discount increase total customer spending compared with regular pricing?
+
+The objective of this A/B test is to evaluate whether the discount campaign has a statistically significant impact on customer spending.
+
 
 ### Project Overview
 This project analyzes using A/B test to evaluate whether offering discounts increases the average order value (AOV).
